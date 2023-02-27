@@ -1,6 +1,6 @@
 # UX Portfolio
 
-My name is Bryce Ingersoll and I'm interested in working with computers and their applications in business and other fields. I am also interested in the design aspect of this task, much more so than the deeper mathmatical computer science aspect of computing.
+My name is Bryce Ingersoll and I'm interested in working with computers and their real world applications. I am also interested in the design aspect of these applications along with making them user friendly and intuitive.
 
 ## UX Team Project
 
